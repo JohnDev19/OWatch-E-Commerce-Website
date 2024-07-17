@@ -18,7 +18,7 @@ Welcome to the O'Watch landing page repository! This project showcases a beautif
 ![O'Watch Demo](owatch.jpg)
 ![O'Watch Demo](laptop.jpg)
 
-Check out the live demo [here](#).
+Check out the live demo [here](https://johndev19.github.io/OWatch-E-Commerce-Website/).
 
 ## Features
 
