@@ -1,6 +1,6 @@
 # O'Watch - Elegant Timepieces
 
-Welcome to the O'Watch landing page repository! This project showcases a beautiful, responsive landing page for an e-commerce site selling elegant timepieces. 
+Welcome to the O'Watch landing page repository! A responsive landing page for an e-commerce site selling timepieces. 
 
 ## Table of Contents
 
